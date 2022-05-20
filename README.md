@@ -1,3 +1,5 @@
+#0/1 Knapsack Bank Problem using Genetic Algorithm
+
 Suppose, an owner of a bank has a fascination with finding out whether a portion of the daily transactions (in/out) balance out to zero. For example, suppose the daily transaction register looks like this:
 
 1 Lend 100
